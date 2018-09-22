@@ -1,0 +1,551 @@
+2018-09-21 16:54:25,901 - inverted_index_generator - INFO - Processing Inverted Index Generator Module...
+2018-09-21 16:54:25,902 - inverted_index_generator - INFO - Reading /home/thabata/Documents/MIT/Bloco_D/Projeto_M1_Bl_D/1-DATA/cf74.xml file...
+2018-09-21 16:54:26,157 - inverted_index_generator - WARNING - Document[00036 ]                         doesn't have abstract neither extract!
+2018-09-21 16:54:26,166 - inverted_index_generator - WARNING - Document[00128 ]                         doesn't have abstract neither extract!
+2018-09-21 16:54:26,166 - inverted_index_generator - WARNING - Document[00132 ]                         doesn't have abstract neither extract!
+2018-09-21 16:54:26,170 - inverted_index_generator - INFO - 164 records read succesfully in 0.26759791374206543 s.
+2018-09-21 16:54:26,171 - inverted_index_generator - INFO - Tokenizing documents...
+2018-09-21 16:54:26,518 - inverted_index_generator - INFO - 164 records tokenized succesfully in 0.3472132682800293 s.
+2018-09-21 16:54:26,518 - inverted_index_generator - INFO - Reading /home/thabata/Documents/MIT/Bloco_D/Projeto_M1_Bl_D/1-DATA/cf75.xml file...
+2018-09-21 16:54:26,811 - inverted_index_generator - WARNING - Document[00168]                         doesn't have abstract neither extract!
+2018-09-21 16:54:26,819 - inverted_index_generator - WARNING - Document[00298]                         doesn't have abstract neither extract!
+2018-09-21 16:54:26,822 - inverted_index_generator - WARNING - Document[00329]                         doesn't have abstract neither extract!
+2018-09-21 16:54:26,824 - inverted_index_generator - INFO - 185 records read succesfully in 0.30547499656677246 s.
+2018-09-21 16:54:26,825 - inverted_index_generator - INFO - Tokenizing documents...
+2018-09-21 16:54:27,197 - inverted_index_generator - INFO - 185 records tokenized succesfully in 0.3723022937774658 s.
+2018-09-21 16:54:27,198 - inverted_index_generator - INFO - Reading /home/thabata/Documents/MIT/Bloco_D/Projeto_M1_Bl_D/1-DATA/cf76.xml file...
+2018-09-21 16:54:27,659 - inverted_index_generator - WARNING - Document[00493 ]                         doesn't have abstract neither extract!
+2018-09-21 16:54:27,662 - inverted_index_generator - WARNING - Document[00512 ]                         doesn't have abstract neither extract!
+2018-09-21 16:54:27,665 - inverted_index_generator - WARNING - Document[00551 ]                         doesn't have abstract neither extract!
+2018-09-21 16:54:27,668 - inverted_index_generator - INFO - 224 records read succesfully in 0.46941399574279785 s.
+2018-09-21 16:54:27,668 - inverted_index_generator - INFO - Tokenizing documents...
+2018-09-21 16:54:28,109 - inverted_index_generator - INFO - 224 records tokenized succesfully in 0.4410691261291504 s.
+2018-09-21 16:54:28,110 - inverted_index_generator - INFO - Reading /home/thabata/Documents/MIT/Bloco_D/Projeto_M1_Bl_D/1-DATA/cf77.xml file...
+2018-09-21 16:54:28,501 - inverted_index_generator - WARNING - Document[00595 ]                         doesn't have abstract neither extract!
+2018-09-21 16:54:28,511 - inverted_index_generator - WARNING - Document[00712 ]                         doesn't have abstract neither extract!
+2018-09-21 16:54:28,512 - inverted_index_generator - WARNING - Document[00729 ]                         doesn't have abstract neither extract!
+2018-09-21 16:54:28,513 - inverted_index_generator - WARNING - Document[00735 ]                         doesn't have abstract neither extract!
+2018-09-21 16:54:28,516 - inverted_index_generator - INFO - 195 records read succesfully in 0.40616488456726074 s.
+2018-09-21 16:54:28,517 - inverted_index_generator - INFO - Tokenizing documents...
+2018-09-21 16:54:28,891 - inverted_index_generator - INFO - 195 records tokenized succesfully in 0.37419986724853516 s.
+2018-09-21 16:54:28,892 - inverted_index_generator - INFO - Reading /home/thabata/Documents/MIT/Bloco_D/Projeto_M1_Bl_D/1-DATA/cf78.xml file...
+2018-09-21 16:54:29,128 - inverted_index_generator - WARNING - Document[00839 ]                         doesn't have abstract neither extract!
+2018-09-21 16:54:29,131 - inverted_index_generator - WARNING - Document[00894 ]                         doesn't have abstract neither extract!
+2018-09-21 16:54:29,133 - inverted_index_generator - WARNING - Document[00932 ]                         doesn't have abstract neither extract!
+2018-09-21 16:54:29,134 - inverted_index_generator - WARNING - Document[00939 ]                         doesn't have abstract neither extract!
+2018-09-21 16:54:29,136 - inverted_index_generator - INFO - 195 records read succesfully in 0.24418878555297852 s.
+2018-09-21 16:54:29,137 - inverted_index_generator - INFO - Tokenizing documents...
+2018-09-21 16:54:29,481 - inverted_index_generator - INFO - 195 records tokenized succesfully in 0.343860387802124 s.
+2018-09-21 16:54:29,481 - inverted_index_generator - INFO - Reading /home/thabata/Documents/MIT/Bloco_D/Projeto_M1_Bl_D/1-DATA/cf79.xml file...
+2018-09-21 16:54:29,844 - inverted_index_generator - WARNING - Document[01023 ]                         doesn't have abstract neither extract!
+2018-09-21 16:54:29,846 - inverted_index_generator - WARNING - Document[01069 ]                         doesn't have abstract neither extract!
+2018-09-21 16:54:29,848 - inverted_index_generator - WARNING - Document[01089 ]                         doesn't have abstract neither extract!
+2018-09-21 16:54:29,851 - inverted_index_generator - WARNING - Document[01150 ]                         doesn't have abstract neither extract!
+2018-09-21 16:54:29,852 - inverted_index_generator - WARNING - Document[01154 ]                         doesn't have abstract neither extract!
+2018-09-21 16:54:29,854 - inverted_index_generator - WARNING - Document[01187 ]                         doesn't have abstract neither extract!
+2018-09-21 16:54:29,857 - inverted_index_generator - WARNING - Document[01225 ]                         doesn't have abstract neither extract!
+2018-09-21 16:54:29,858 - inverted_index_generator - INFO - 252 records read succesfully in 0.3763437271118164 s.
+2018-09-21 16:54:29,858 - inverted_index_generator - INFO - Tokenizing documents...
+2018-09-21 16:54:30,333 - inverted_index_generator - INFO - 252 records tokenized succesfully in 0.4747011661529541 s.
+2018-09-21 16:54:30,334 - inverted_index_generator - INFO - All 1215 documents read and tokenized successfully in 4.4327332973480225 s
+2018-09-21 16:54:30,334 - inverted_index_generator - INFO - Making inverted index...
+2018-09-21 16:54:30,351 - inverted_index_generator - INFO - Inverted index created in 0.01696920394897461 s
+2018-09-21 16:54:30,352 - inverted_index_generator - INFO - Writing Inverted Index on file...
+2018-09-21 16:54:30,366 - inverted_index_generator - INFO - Write operation finished with 4.4327332973480225 s
+2018-09-21 16:54:30,366 - inverted_index_generator - INFO - End of Inverted Index Generator Module. Total of 4.465476989746094 elapsed.
+2018-09-21 17:08:55,547 - inverted_index_generator - INFO - Processing Inverted Index Generator Module...
+2018-09-21 17:08:55,547 - inverted_index_generator - INFO - Processing Inverted Index Generator Module...
+2018-09-21 17:08:55,548 - inverted_index_generator - INFO - Reading /home/thabata/Documents/MIT/Bloco_D/Projeto_M1_Bl_D/1-DATA/cf74.xml file...
+2018-09-21 17:08:55,548 - inverted_index_generator - INFO - Reading /home/thabata/Documents/MIT/Bloco_D/Projeto_M1_Bl_D/1-DATA/cf74.xml file...
+2018-09-21 17:08:55,829 - inverted_index_generator - WARNING - Document[00036 ]                         doesn't have abstract neither extract!
+2018-09-21 17:08:55,829 - inverted_index_generator - WARNING - Document[00036 ]                         doesn't have abstract neither extract!
+2018-09-21 17:08:55,839 - inverted_index_generator - WARNING - Document[00128 ]                         doesn't have abstract neither extract!
+2018-09-21 17:08:55,839 - inverted_index_generator - WARNING - Document[00128 ]                         doesn't have abstract neither extract!
+2018-09-21 17:08:55,840 - inverted_index_generator - WARNING - Document[00132 ]                         doesn't have abstract neither extract!
+2018-09-21 17:08:55,840 - inverted_index_generator - WARNING - Document[00132 ]                         doesn't have abstract neither extract!
+2018-09-21 17:08:55,845 - inverted_index_generator - INFO - 164 records read succesfully in 0.29625868797302246 s.
+2018-09-21 17:08:55,845 - inverted_index_generator - INFO - 164 records read succesfully in 0.29625868797302246 s.
+2018-09-21 17:08:55,845 - inverted_index_generator - INFO - Tokenizing documents...
+2018-09-21 17:08:55,845 - inverted_index_generator - INFO - Tokenizing documents...
+2018-09-21 17:08:56,166 - inverted_index_generator - INFO - 164 records tokenized succesfully in 0.31955695152282715 s.
+2018-09-21 17:08:56,166 - inverted_index_generator - INFO - 164 records tokenized succesfully in 0.31955695152282715 s.
+2018-09-21 17:08:56,166 - inverted_index_generator - INFO - Reading /home/thabata/Documents/MIT/Bloco_D/Projeto_M1_Bl_D/1-DATA/cf75.xml file...
+2018-09-21 17:08:56,166 - inverted_index_generator - INFO - Reading /home/thabata/Documents/MIT/Bloco_D/Projeto_M1_Bl_D/1-DATA/cf75.xml file...
+2018-09-21 17:08:56,470 - inverted_index_generator - WARNING - Document[00168]                         doesn't have abstract neither extract!
+2018-09-21 17:08:56,470 - inverted_index_generator - WARNING - Document[00168]                         doesn't have abstract neither extract!
+2018-09-21 17:08:56,480 - inverted_index_generator - WARNING - Document[00298]                         doesn't have abstract neither extract!
+2018-09-21 17:08:56,480 - inverted_index_generator - WARNING - Document[00298]                         doesn't have abstract neither extract!
+2018-09-21 17:08:56,483 - inverted_index_generator - WARNING - Document[00329]                         doesn't have abstract neither extract!
+2018-09-21 17:08:56,483 - inverted_index_generator - WARNING - Document[00329]                         doesn't have abstract neither extract!
+2018-09-21 17:08:56,485 - inverted_index_generator - INFO - 185 records read succesfully in 0.3181314468383789 s.
+2018-09-21 17:08:56,485 - inverted_index_generator - INFO - 185 records read succesfully in 0.3181314468383789 s.
+2018-09-21 17:08:56,486 - inverted_index_generator - INFO - Tokenizing documents...
+2018-09-21 17:08:56,486 - inverted_index_generator - INFO - Tokenizing documents...
+2018-09-21 17:08:56,860 - inverted_index_generator - INFO - 185 records tokenized succesfully in 0.3737640380859375 s.
+2018-09-21 17:08:56,860 - inverted_index_generator - INFO - 185 records tokenized succesfully in 0.3737640380859375 s.
+2018-09-21 17:08:56,861 - inverted_index_generator - INFO - Reading /home/thabata/Documents/MIT/Bloco_D/Projeto_M1_Bl_D/1-DATA/cf76.xml file...
+2018-09-21 17:08:56,861 - inverted_index_generator - INFO - Reading /home/thabata/Documents/MIT/Bloco_D/Projeto_M1_Bl_D/1-DATA/cf76.xml file...
+2018-09-21 17:08:57,335 - inverted_index_generator - WARNING - Document[00493 ]                         doesn't have abstract neither extract!
+2018-09-21 17:08:57,335 - inverted_index_generator - WARNING - Document[00493 ]                         doesn't have abstract neither extract!
+2018-09-21 17:08:57,338 - inverted_index_generator - WARNING - Document[00512 ]                         doesn't have abstract neither extract!
+2018-09-21 17:08:57,338 - inverted_index_generator - WARNING - Document[00512 ]                         doesn't have abstract neither extract!
+2018-09-21 17:08:57,342 - inverted_index_generator - WARNING - Document[00551 ]                         doesn't have abstract neither extract!
+2018-09-21 17:08:57,342 - inverted_index_generator - WARNING - Document[00551 ]                         doesn't have abstract neither extract!
+2018-09-21 17:08:57,345 - inverted_index_generator - INFO - 224 records read succesfully in 0.4834935665130615 s.
+2018-09-21 17:08:57,345 - inverted_index_generator - INFO - 224 records read succesfully in 0.4834935665130615 s.
+2018-09-21 17:08:57,346 - inverted_index_generator - INFO - Tokenizing documents...
+2018-09-21 17:08:57,346 - inverted_index_generator - INFO - Tokenizing documents...
+2018-09-21 17:08:57,789 - inverted_index_generator - INFO - 224 records tokenized succesfully in 0.44281911849975586 s.
+2018-09-21 17:08:57,789 - inverted_index_generator - INFO - 224 records tokenized succesfully in 0.44281911849975586 s.
+2018-09-21 17:08:57,790 - inverted_index_generator - INFO - Reading /home/thabata/Documents/MIT/Bloco_D/Projeto_M1_Bl_D/1-DATA/cf77.xml file...
+2018-09-21 17:08:57,790 - inverted_index_generator - INFO - Reading /home/thabata/Documents/MIT/Bloco_D/Projeto_M1_Bl_D/1-DATA/cf77.xml file...
+2018-09-21 17:08:58,188 - inverted_index_generator - WARNING - Document[00595 ]                         doesn't have abstract neither extract!
+2018-09-21 17:08:58,188 - inverted_index_generator - WARNING - Document[00595 ]                         doesn't have abstract neither extract!
+2018-09-21 17:08:58,200 - inverted_index_generator - WARNING - Document[00712 ]                         doesn't have abstract neither extract!
+2018-09-21 17:08:58,200 - inverted_index_generator - WARNING - Document[00712 ]                         doesn't have abstract neither extract!
+2018-09-21 17:08:58,202 - inverted_index_generator - WARNING - Document[00729 ]                         doesn't have abstract neither extract!
+2018-09-21 17:08:58,202 - inverted_index_generator - WARNING - Document[00729 ]                         doesn't have abstract neither extract!
+2018-09-21 17:08:58,204 - inverted_index_generator - WARNING - Document[00735 ]                         doesn't have abstract neither extract!
+2018-09-21 17:08:58,204 - inverted_index_generator - WARNING - Document[00735 ]                         doesn't have abstract neither extract!
+2018-09-21 17:08:58,208 - inverted_index_generator - INFO - 195 records read succesfully in 0.41785240173339844 s.
+2018-09-21 17:08:58,208 - inverted_index_generator - INFO - 195 records read succesfully in 0.41785240173339844 s.
+2018-09-21 17:08:58,209 - inverted_index_generator - INFO - Tokenizing documents...
+2018-09-21 17:08:58,209 - inverted_index_generator - INFO - Tokenizing documents...
+2018-09-21 17:08:58,587 - inverted_index_generator - INFO - 195 records tokenized succesfully in 0.37771034240722656 s.
+2018-09-21 17:08:58,587 - inverted_index_generator - INFO - 195 records tokenized succesfully in 0.37771034240722656 s.
+2018-09-21 17:08:58,588 - inverted_index_generator - INFO - Reading /home/thabata/Documents/MIT/Bloco_D/Projeto_M1_Bl_D/1-DATA/cf78.xml file...
+2018-09-21 17:08:58,588 - inverted_index_generator - INFO - Reading /home/thabata/Documents/MIT/Bloco_D/Projeto_M1_Bl_D/1-DATA/cf78.xml file...
+2018-09-21 17:08:58,829 - inverted_index_generator - WARNING - Document[00839 ]                         doesn't have abstract neither extract!
+2018-09-21 17:08:58,829 - inverted_index_generator - WARNING - Document[00839 ]                         doesn't have abstract neither extract!
+2018-09-21 17:08:58,833 - inverted_index_generator - WARNING - Document[00894 ]                         doesn't have abstract neither extract!
+2018-09-21 17:08:58,833 - inverted_index_generator - WARNING - Document[00894 ]                         doesn't have abstract neither extract!
+2018-09-21 17:08:58,835 - inverted_index_generator - WARNING - Document[00932 ]                         doesn't have abstract neither extract!
+2018-09-21 17:08:58,835 - inverted_index_generator - WARNING - Document[00932 ]                         doesn't have abstract neither extract!
+2018-09-21 17:08:58,837 - inverted_index_generator - WARNING - Document[00939 ]                         doesn't have abstract neither extract!
+2018-09-21 17:08:58,837 - inverted_index_generator - WARNING - Document[00939 ]                         doesn't have abstract neither extract!
+2018-09-21 17:08:58,839 - inverted_index_generator - INFO - 195 records read succesfully in 0.25070762634277344 s.
+2018-09-21 17:08:58,839 - inverted_index_generator - INFO - 195 records read succesfully in 0.25070762634277344 s.
+2018-09-21 17:08:58,840 - inverted_index_generator - INFO - Tokenizing documents...
+2018-09-21 17:08:58,840 - inverted_index_generator - INFO - Tokenizing documents...
+2018-09-21 17:08:59,187 - inverted_index_generator - INFO - 195 records tokenized succesfully in 0.3462512493133545 s.
+2018-09-21 17:08:59,187 - inverted_index_generator - INFO - 195 records tokenized succesfully in 0.3462512493133545 s.
+2018-09-21 17:08:59,187 - inverted_index_generator - INFO - Reading /home/thabata/Documents/MIT/Bloco_D/Projeto_M1_Bl_D/1-DATA/cf79.xml file...
+2018-09-21 17:08:59,187 - inverted_index_generator - INFO - Reading /home/thabata/Documents/MIT/Bloco_D/Projeto_M1_Bl_D/1-DATA/cf79.xml file...
+2018-09-21 17:08:59,555 - inverted_index_generator - WARNING - Document[01023 ]                         doesn't have abstract neither extract!
+2018-09-21 17:08:59,555 - inverted_index_generator - WARNING - Document[01023 ]                         doesn't have abstract neither extract!
+2018-09-21 17:08:59,559 - inverted_index_generator - WARNING - Document[01069 ]                         doesn't have abstract neither extract!
+2018-09-21 17:08:59,559 - inverted_index_generator - WARNING - Document[01069 ]                         doesn't have abstract neither extract!
+2018-09-21 17:08:59,562 - inverted_index_generator - WARNING - Document[01089 ]                         doesn't have abstract neither extract!
+2018-09-21 17:08:59,562 - inverted_index_generator - WARNING - Document[01089 ]                         doesn't have abstract neither extract!
+2018-09-21 17:08:59,566 - inverted_index_generator - WARNING - Document[01150 ]                         doesn't have abstract neither extract!
+2018-09-21 17:08:59,566 - inverted_index_generator - WARNING - Document[01150 ]                         doesn't have abstract neither extract!
+2018-09-21 17:08:59,567 - inverted_index_generator - WARNING - Document[01154 ]                         doesn't have abstract neither extract!
+2018-09-21 17:08:59,567 - inverted_index_generator - WARNING - Document[01154 ]                         doesn't have abstract neither extract!
+2018-09-21 17:08:59,570 - inverted_index_generator - WARNING - Document[01187 ]                         doesn't have abstract neither extract!
+2018-09-21 17:08:59,570 - inverted_index_generator - WARNING - Document[01187 ]                         doesn't have abstract neither extract!
+2018-09-21 17:08:59,573 - inverted_index_generator - WARNING - Document[01225 ]                         doesn't have abstract neither extract!
+2018-09-21 17:08:59,573 - inverted_index_generator - WARNING - Document[01225 ]                         doesn't have abstract neither extract!
+2018-09-21 17:08:59,575 - inverted_index_generator - INFO - 252 records read succesfully in 0.3868081569671631 s.
+2018-09-21 17:08:59,575 - inverted_index_generator - INFO - 252 records read succesfully in 0.3868081569671631 s.
+2018-09-21 17:08:59,576 - inverted_index_generator - INFO - Tokenizing documents...
+2018-09-21 17:08:59,576 - inverted_index_generator - INFO - Tokenizing documents...
+2018-09-21 17:09:00,056 - inverted_index_generator - INFO - 252 records tokenized succesfully in 0.4797861576080322 s.
+2018-09-21 17:09:00,056 - inverted_index_generator - INFO - 252 records tokenized succesfully in 0.4797861576080322 s.
+2018-09-21 17:09:00,057 - inverted_index_generator - INFO - All 1215 documents read and tokenized successfully in 4.509771108627319 s
+2018-09-21 17:09:00,057 - inverted_index_generator - INFO - All 1215 documents read and tokenized successfully in 4.509771108627319 s
+2018-09-21 17:09:00,057 - inverted_index_generator - INFO - Making inverted index...
+2018-09-21 17:09:00,057 - inverted_index_generator - INFO - Making inverted index...
+2018-09-21 17:09:00,075 - inverted_index_generator - INFO - Inverted index created in 0.016955852508544922 s
+2018-09-21 17:09:00,075 - inverted_index_generator - INFO - Inverted index created in 0.016955852508544922 s
+2018-09-21 17:09:00,076 - inverted_index_generator - INFO - Writing Inverted Index on file...
+2018-09-21 17:09:00,076 - inverted_index_generator - INFO - Writing Inverted Index on file...
+2018-09-21 17:09:00,092 - inverted_index_generator - INFO - Write operation finished with 4.544922113418579 s
+2018-09-21 17:09:00,092 - inverted_index_generator - INFO - Write operation finished with 4.544922113418579 s
+2018-09-21 17:09:00,092 - inverted_index_generator - INFO - End of Inverted Index Generator Module. Total of 4.545626401901245 elapsed.
+2018-09-21 17:09:00,092 - inverted_index_generator - INFO - End of Inverted Index Generator Module. Total of 4.545626401901245 elapsed.
+2018-09-21 17:09:20,314 - inverted_index_generator - INFO - Processing Inverted Index Generator Module...
+2018-09-21 17:09:20,315 - inverted_index_generator - INFO - Reading /home/thabata/Documents/MIT/Bloco_D/Projeto_M1_Bl_D/1-DATA/cf74.xml file...
+2018-09-21 17:09:20,555 - inverted_index_generator - WARNING - Document[00036 ]                         doesn't have abstract neither extract!
+2018-09-21 17:09:20,562 - inverted_index_generator - WARNING - Document[00128 ]                         doesn't have abstract neither extract!
+2018-09-21 17:09:20,563 - inverted_index_generator - WARNING - Document[00132 ]                         doesn't have abstract neither extract!
+2018-09-21 17:09:20,566 - inverted_index_generator - INFO - 164 records read succesfully in 0.2506535053253174 s.
+2018-09-21 17:09:20,567 - inverted_index_generator - INFO - Tokenizing documents...
+2018-09-21 17:09:20,889 - inverted_index_generator - INFO - 164 records tokenized succesfully in 0.3218073844909668 s.
+2018-09-21 17:09:20,889 - inverted_index_generator - INFO - Reading /home/thabata/Documents/MIT/Bloco_D/Projeto_M1_Bl_D/1-DATA/cf75.xml file...
+2018-09-21 17:09:21,178 - inverted_index_generator - WARNING - Document[00168]                         doesn't have abstract neither extract!
+2018-09-21 17:09:21,187 - inverted_index_generator - WARNING - Document[00298]                         doesn't have abstract neither extract!
+2018-09-21 17:09:21,189 - inverted_index_generator - WARNING - Document[00329]                         doesn't have abstract neither extract!
+2018-09-21 17:09:21,191 - inverted_index_generator - INFO - 185 records read succesfully in 0.30179405212402344 s.
+2018-09-21 17:09:21,191 - inverted_index_generator - INFO - Tokenizing documents...
+2018-09-21 17:09:21,569 - inverted_index_generator - INFO - 185 records tokenized succesfully in 0.377260684967041 s.
+2018-09-21 17:09:21,569 - inverted_index_generator - INFO - Reading /home/thabata/Documents/MIT/Bloco_D/Projeto_M1_Bl_D/1-DATA/cf76.xml file...
+2018-09-21 17:09:22,023 - inverted_index_generator - WARNING - Document[00493 ]                         doesn't have abstract neither extract!
+2018-09-21 17:09:22,026 - inverted_index_generator - WARNING - Document[00512 ]                         doesn't have abstract neither extract!
+2018-09-21 17:09:22,029 - inverted_index_generator - WARNING - Document[00551 ]                         doesn't have abstract neither extract!
+2018-09-21 17:09:22,032 - inverted_index_generator - INFO - 224 records read succesfully in 0.4622538089752197 s.
+2018-09-21 17:09:22,032 - inverted_index_generator - INFO - Tokenizing documents...
+2018-09-21 17:09:22,477 - inverted_index_generator - INFO - 224 records tokenized succesfully in 0.44390296936035156 s.
+2018-09-21 17:09:22,477 - inverted_index_generator - INFO - Reading /home/thabata/Documents/MIT/Bloco_D/Projeto_M1_Bl_D/1-DATA/cf77.xml file...
+2018-09-21 17:09:22,866 - inverted_index_generator - WARNING - Document[00595 ]                         doesn't have abstract neither extract!
+2018-09-21 17:09:22,875 - inverted_index_generator - WARNING - Document[00712 ]                         doesn't have abstract neither extract!
+2018-09-21 17:09:22,877 - inverted_index_generator - WARNING - Document[00729 ]                         doesn't have abstract neither extract!
+2018-09-21 17:09:22,878 - inverted_index_generator - WARNING - Document[00735 ]                         doesn't have abstract neither extract!
+2018-09-21 17:09:22,881 - inverted_index_generator - INFO - 195 records read succesfully in 0.40398740768432617 s.
+2018-09-21 17:09:22,882 - inverted_index_generator - INFO - Tokenizing documents...
+2018-09-21 17:09:23,258 - inverted_index_generator - INFO - 195 records tokenized succesfully in 0.376265287399292 s.
+2018-09-21 17:09:23,259 - inverted_index_generator - INFO - Reading /home/thabata/Documents/MIT/Bloco_D/Projeto_M1_Bl_D/1-DATA/cf78.xml file...
+2018-09-21 17:09:23,489 - inverted_index_generator - WARNING - Document[00839 ]                         doesn't have abstract neither extract!
+2018-09-21 17:09:23,492 - inverted_index_generator - WARNING - Document[00894 ]                         doesn't have abstract neither extract!
+2018-09-21 17:09:23,494 - inverted_index_generator - WARNING - Document[00932 ]                         doesn't have abstract neither extract!
+2018-09-21 17:09:23,495 - inverted_index_generator - WARNING - Document[00939 ]                         doesn't have abstract neither extract!
+2018-09-21 17:09:23,497 - inverted_index_generator - INFO - 195 records read succesfully in 0.2383441925048828 s.
+2018-09-21 17:09:23,498 - inverted_index_generator - INFO - Tokenizing documents...
+2018-09-21 17:09:23,845 - inverted_index_generator - INFO - 195 records tokenized succesfully in 0.34735107421875 s.
+2018-09-21 17:09:23,846 - inverted_index_generator - INFO - Reading /home/thabata/Documents/MIT/Bloco_D/Projeto_M1_Bl_D/1-DATA/cf79.xml file...
+2018-09-21 17:09:24,218 - inverted_index_generator - WARNING - Document[01023 ]                         doesn't have abstract neither extract!
+2018-09-21 17:09:24,220 - inverted_index_generator - WARNING - Document[01069 ]                         doesn't have abstract neither extract!
+2018-09-21 17:09:24,222 - inverted_index_generator - WARNING - Document[01089 ]                         doesn't have abstract neither extract!
+2018-09-21 17:09:24,226 - inverted_index_generator - WARNING - Document[01150 ]                         doesn't have abstract neither extract!
+2018-09-21 17:09:24,226 - inverted_index_generator - WARNING - Document[01154 ]                         doesn't have abstract neither extract!
+2018-09-21 17:09:24,230 - inverted_index_generator - WARNING - Document[01187 ]                         doesn't have abstract neither extract!
+2018-09-21 17:09:24,233 - inverted_index_generator - WARNING - Document[01225 ]                         doesn't have abstract neither extract!
+2018-09-21 17:09:24,235 - inverted_index_generator - INFO - 252 records read succesfully in 0.38866519927978516 s.
+2018-09-21 17:09:24,235 - inverted_index_generator - INFO - Tokenizing documents...
+2018-09-21 17:09:24,712 - inverted_index_generator - INFO - 252 records tokenized succesfully in 0.47646617889404297 s.
+2018-09-21 17:09:24,712 - inverted_index_generator - INFO - All 1215 documents read and tokenized successfully in 4.398555755615234 s
+2018-09-21 17:09:24,713 - inverted_index_generator - INFO - Making inverted index...
+2018-09-21 17:09:24,730 - inverted_index_generator - INFO - Inverted index created in 0.017321348190307617 s
+2018-09-21 17:09:24,731 - inverted_index_generator - INFO - Writing Inverted Index on file...
+2018-09-21 17:09:24,746 - inverted_index_generator - INFO - Write operation finished with 4.4317872524261475 s
+2018-09-21 17:09:24,746 - inverted_index_generator - INFO - End of Inverted Index Generator Module. Total of 4.432188987731934 elapsed.
+2018-09-21 17:11:47,149 - inverted_index_generator - INFO - Processing Inverted Index Generator Module...
+2018-09-21 17:11:47,151 - inverted_index_generator - INFO - Reading /home/thabata/Documents/MIT/Bloco_D/Projeto_M1_Bl_D/1-DATA/cf74.xml file...
+2018-09-21 17:11:47,394 - inverted_index_generator - WARNING - Document[00036 ]                         doesn't have abstract neither extract!
+2018-09-21 17:11:47,402 - inverted_index_generator - WARNING - Document[00128 ]                         doesn't have abstract neither extract!
+2018-09-21 17:11:47,402 - inverted_index_generator - WARNING - Document[00132 ]                         doesn't have abstract neither extract!
+2018-09-21 17:11:47,406 - inverted_index_generator - INFO - 164 records read succesfully in 0.25487184524536133 s.
+2018-09-21 17:11:47,406 - inverted_index_generator - INFO - Tokenizing documents...
+2018-09-21 17:11:47,745 - inverted_index_generator - INFO - 164 records tokenized succesfully in 0.3385024070739746 s.
+2018-09-21 17:11:47,745 - inverted_index_generator - INFO - Reading /home/thabata/Documents/MIT/Bloco_D/Projeto_M1_Bl_D/1-DATA/cf75.xml file...
+2018-09-21 17:11:48,039 - inverted_index_generator - WARNING - Document[00168]                         doesn't have abstract neither extract!
+2018-09-21 17:11:48,048 - inverted_index_generator - WARNING - Document[00298]                         doesn't have abstract neither extract!
+2018-09-21 17:11:48,051 - inverted_index_generator - WARNING - Document[00329]                         doesn't have abstract neither extract!
+2018-09-21 17:11:48,053 - inverted_index_generator - INFO - 185 records read succesfully in 0.3070945739746094 s.
+2018-09-21 17:11:48,053 - inverted_index_generator - INFO - Tokenizing documents...
+2018-09-21 17:11:48,431 - inverted_index_generator - INFO - 185 records tokenized succesfully in 0.37740373611450195 s.
+2018-09-21 17:11:48,431 - inverted_index_generator - INFO - Reading /home/thabata/Documents/MIT/Bloco_D/Projeto_M1_Bl_D/1-DATA/cf76.xml file...
+2018-09-21 17:11:48,890 - inverted_index_generator - WARNING - Document[00493 ]                         doesn't have abstract neither extract!
+2018-09-21 17:11:48,892 - inverted_index_generator - WARNING - Document[00512 ]                         doesn't have abstract neither extract!
+2018-09-21 17:11:48,896 - inverted_index_generator - WARNING - Document[00551 ]                         doesn't have abstract neither extract!
+2018-09-21 17:11:48,899 - inverted_index_generator - INFO - 224 records read succesfully in 0.46692967414855957 s.
+2018-09-21 17:11:48,899 - inverted_index_generator - INFO - Tokenizing documents...
+2018-09-21 17:11:49,346 - inverted_index_generator - INFO - 224 records tokenized succesfully in 0.44626593589782715 s.
+2018-09-21 17:11:49,346 - inverted_index_generator - INFO - Reading /home/thabata/Documents/MIT/Bloco_D/Projeto_M1_Bl_D/1-DATA/cf77.xml file...
+2018-09-21 17:11:49,741 - inverted_index_generator - WARNING - Document[00595 ]                         doesn't have abstract neither extract!
+2018-09-21 17:11:49,751 - inverted_index_generator - WARNING - Document[00712 ]                         doesn't have abstract neither extract!
+2018-09-21 17:11:49,753 - inverted_index_generator - WARNING - Document[00729 ]                         doesn't have abstract neither extract!
+2018-09-21 17:11:49,753 - inverted_index_generator - WARNING - Document[00735 ]                         doesn't have abstract neither extract!
+2018-09-21 17:11:49,757 - inverted_index_generator - INFO - 195 records read succesfully in 0.4109981060028076 s.
+2018-09-21 17:11:49,758 - inverted_index_generator - INFO - Tokenizing documents...
+2018-09-21 17:11:50,135 - inverted_index_generator - INFO - 195 records tokenized succesfully in 0.37741541862487793 s.
+2018-09-21 17:11:50,136 - inverted_index_generator - INFO - Reading /home/thabata/Documents/MIT/Bloco_D/Projeto_M1_Bl_D/1-DATA/cf78.xml file...
+2018-09-21 17:11:50,376 - inverted_index_generator - WARNING - Document[00839 ]                         doesn't have abstract neither extract!
+2018-09-21 17:11:50,380 - inverted_index_generator - WARNING - Document[00894 ]                         doesn't have abstract neither extract!
+2018-09-21 17:11:50,383 - inverted_index_generator - WARNING - Document[00932 ]                         doesn't have abstract neither extract!
+2018-09-21 17:11:50,385 - inverted_index_generator - WARNING - Document[00939 ]                         doesn't have abstract neither extract!
+2018-09-21 17:11:50,388 - inverted_index_generator - INFO - 195 records read succesfully in 0.2523186206817627 s.
+2018-09-21 17:11:50,389 - inverted_index_generator - INFO - Tokenizing documents...
+2018-09-21 17:11:50,736 - inverted_index_generator - INFO - 195 records tokenized succesfully in 0.34705567359924316 s.
+2018-09-21 17:11:50,737 - inverted_index_generator - INFO - Reading /home/thabata/Documents/MIT/Bloco_D/Projeto_M1_Bl_D/1-DATA/cf79.xml file...
+2018-09-21 17:11:51,104 - inverted_index_generator - WARNING - Document[01023 ]                         doesn't have abstract neither extract!
+2018-09-21 17:11:51,106 - inverted_index_generator - WARNING - Document[01069 ]                         doesn't have abstract neither extract!
+2018-09-21 17:11:51,108 - inverted_index_generator - WARNING - Document[01089 ]                         doesn't have abstract neither extract!
+2018-09-21 17:11:51,112 - inverted_index_generator - WARNING - Document[01150 ]                         doesn't have abstract neither extract!
+2018-09-21 17:11:51,113 - inverted_index_generator - WARNING - Document[01154 ]                         doesn't have abstract neither extract!
+2018-09-21 17:11:51,116 - inverted_index_generator - WARNING - Document[01187 ]                         doesn't have abstract neither extract!
+2018-09-21 17:11:51,119 - inverted_index_generator - WARNING - Document[01225 ]                         doesn't have abstract neither extract!
+2018-09-21 17:11:51,121 - inverted_index_generator - INFO - 252 records read succesfully in 0.3835570812225342 s.
+2018-09-21 17:11:51,121 - inverted_index_generator - INFO - Tokenizing documents...
+2018-09-21 17:11:51,609 - inverted_index_generator - INFO - 252 records tokenized succesfully in 0.48755788803100586 s.
+2018-09-21 17:11:51,609 - inverted_index_generator - INFO - All 1215 documents read and tokenized successfully in 4.460244178771973 s
+2018-09-21 17:11:51,610 - inverted_index_generator - INFO - Making inverted index...
+2018-09-21 17:11:51,627 - inverted_index_generator - INFO - Inverted index created in 0.016842126846313477 s
+2018-09-21 17:11:51,627 - inverted_index_generator - INFO - Writing Inverted Index on file...
+2018-09-21 17:11:51,642 - inverted_index_generator - INFO - Write operation finished with 4.49244499206543 s
+2018-09-21 17:11:51,642 - inverted_index_generator - INFO - End of Inverted Index Generator Module. Total of 4.492837190628052 elapsed.
+2018-09-21 17:15:26,895 - inverted_index_generator - INFO - Processing Inverted Index Generator Module...
+2018-09-21 17:15:26,896 - inverted_index_generator - INFO - Reading /home/thabata/Documents/MIT/Bloco_D/Projeto_M1_Bl_D/1-DATA/cf74.xml file...
+2018-09-21 17:15:27,134 - inverted_index_generator - WARNING - Document[00036 ]                         doesn't have abstract neither extract!
+2018-09-21 17:15:27,141 - inverted_index_generator - WARNING - Document[00128 ]                         doesn't have abstract neither extract!
+2018-09-21 17:15:27,142 - inverted_index_generator - WARNING - Document[00132 ]                         doesn't have abstract neither extract!
+2018-09-21 17:15:27,145 - inverted_index_generator - INFO - 164 records read succesfully in 0.24896001815795898 s.
+2018-09-21 17:15:27,146 - inverted_index_generator - INFO - Tokenizing documents...
+2018-09-21 17:15:27,467 - inverted_index_generator - INFO - 164 records tokenized succesfully in 0.3212614059448242 s.
+2018-09-21 17:15:27,468 - inverted_index_generator - INFO - Reading /home/thabata/Documents/MIT/Bloco_D/Projeto_M1_Bl_D/1-DATA/cf75.xml file...
+2018-09-21 17:15:27,761 - inverted_index_generator - WARNING - Document[00168]                         doesn't have abstract neither extract!
+2018-09-21 17:15:27,769 - inverted_index_generator - WARNING - Document[00298]                         doesn't have abstract neither extract!
+2018-09-21 17:15:27,772 - inverted_index_generator - WARNING - Document[00329]                         doesn't have abstract neither extract!
+2018-09-21 17:15:27,773 - inverted_index_generator - INFO - 185 records read succesfully in 0.3054392337799072 s.
+2018-09-21 17:15:27,774 - inverted_index_generator - INFO - Tokenizing documents...
+2018-09-21 17:15:28,148 - inverted_index_generator - INFO - 185 records tokenized succesfully in 0.3739907741546631 s.
+2018-09-21 17:15:28,149 - inverted_index_generator - INFO - Reading /home/thabata/Documents/MIT/Bloco_D/Projeto_M1_Bl_D/1-DATA/cf76.xml file...
+2018-09-21 17:15:28,605 - inverted_index_generator - WARNING - Document[00493 ]                         doesn't have abstract neither extract!
+2018-09-21 17:15:28,607 - inverted_index_generator - WARNING - Document[00512 ]                         doesn't have abstract neither extract!
+2018-09-21 17:15:28,611 - inverted_index_generator - WARNING - Document[00551 ]                         doesn't have abstract neither extract!
+2018-09-21 17:15:28,613 - inverted_index_generator - INFO - 224 records read succesfully in 0.4642493724822998 s.
+2018-09-21 17:15:28,614 - inverted_index_generator - INFO - Tokenizing documents...
+2018-09-21 17:15:29,058 - inverted_index_generator - INFO - 224 records tokenized succesfully in 0.444319486618042 s.
+2018-09-21 17:15:29,059 - inverted_index_generator - INFO - Reading /home/thabata/Documents/MIT/Bloco_D/Projeto_M1_Bl_D/1-DATA/cf77.xml file...
+2018-09-21 17:15:29,447 - inverted_index_generator - WARNING - Document[00595 ]                         doesn't have abstract neither extract!
+2018-09-21 17:15:29,456 - inverted_index_generator - WARNING - Document[00712 ]                         doesn't have abstract neither extract!
+2018-09-21 17:15:29,458 - inverted_index_generator - WARNING - Document[00729 ]                         doesn't have abstract neither extract!
+2018-09-21 17:15:29,459 - inverted_index_generator - WARNING - Document[00735 ]                         doesn't have abstract neither extract!
+2018-09-21 17:15:29,462 - inverted_index_generator - INFO - 195 records read succesfully in 0.40299534797668457 s.
+2018-09-21 17:15:29,462 - inverted_index_generator - INFO - Tokenizing documents...
+2018-09-21 17:15:29,845 - inverted_index_generator - INFO - 195 records tokenized succesfully in 0.3817276954650879 s.
+2018-09-21 17:15:29,845 - inverted_index_generator - INFO - Reading /home/thabata/Documents/MIT/Bloco_D/Projeto_M1_Bl_D/1-DATA/cf78.xml file...
+2018-09-21 17:15:30,077 - inverted_index_generator - WARNING - Document[00839 ]                         doesn't have abstract neither extract!
+2018-09-21 17:15:30,080 - inverted_index_generator - WARNING - Document[00894 ]                         doesn't have abstract neither extract!
+2018-09-21 17:15:30,082 - inverted_index_generator - WARNING - Document[00932 ]                         doesn't have abstract neither extract!
+2018-09-21 17:15:30,083 - inverted_index_generator - WARNING - Document[00939 ]                         doesn't have abstract neither extract!
+2018-09-21 17:15:30,085 - inverted_index_generator - INFO - 195 records read succesfully in 0.23994684219360352 s.
+2018-09-21 17:15:30,086 - inverted_index_generator - INFO - Tokenizing documents...
+2018-09-21 17:15:30,448 - inverted_index_generator - INFO - 195 records tokenized succesfully in 0.36188387870788574 s.
+2018-09-21 17:15:30,448 - inverted_index_generator - INFO - Reading /home/thabata/Documents/MIT/Bloco_D/Projeto_M1_Bl_D/1-DATA/cf79.xml file...
+2018-09-21 17:15:30,809 - inverted_index_generator - WARNING - Document[01023 ]                         doesn't have abstract neither extract!
+2018-09-21 17:15:30,811 - inverted_index_generator - WARNING - Document[01069 ]                         doesn't have abstract neither extract!
+2018-09-21 17:15:30,813 - inverted_index_generator - WARNING - Document[01089 ]                         doesn't have abstract neither extract!
+2018-09-21 17:15:30,816 - inverted_index_generator - WARNING - Document[01150 ]                         doesn't have abstract neither extract!
+2018-09-21 17:15:30,817 - inverted_index_generator - WARNING - Document[01154 ]                         doesn't have abstract neither extract!
+2018-09-21 17:15:30,819 - inverted_index_generator - WARNING - Document[01187 ]                         doesn't have abstract neither extract!
+2018-09-21 17:15:30,822 - inverted_index_generator - WARNING - Document[01225 ]                         doesn't have abstract neither extract!
+2018-09-21 17:15:30,823 - inverted_index_generator - INFO - 252 records read succesfully in 0.3747985363006592 s.
+2018-09-21 17:15:30,824 - inverted_index_generator - INFO - Tokenizing documents...
+2018-09-21 17:15:31,319 - inverted_index_generator - INFO - 252 records tokenized succesfully in 0.4947514533996582 s.
+2018-09-21 17:15:31,319 - inverted_index_generator - INFO - All 1215 documents read and tokenized successfully in 4.424691438674927 s
+2018-09-21 17:15:31,320 - inverted_index_generator - INFO - Making inverted index...
+2018-09-21 17:15:31,337 - inverted_index_generator - INFO - Inverted index created in 0.01713085174560547 s
+2018-09-21 17:15:31,337 - inverted_index_generator - INFO - Writing Inverted Index on file...
+2018-09-21 17:15:31,352 - inverted_index_generator - INFO - Write operation finished with 4.457751274108887 s
+2018-09-21 17:15:31,353 - inverted_index_generator - INFO - End of Inverted Index Generator Module. Total of 4.458158493041992 elapsed.
+2018-09-21 17:16:23,143 - inverted_index_generator - INFO - Processing Inverted Index Generator Module...
+2018-09-21 17:16:23,145 - inverted_index_generator - INFO - Reading /home/thabata/Documents/MIT/Bloco_D/Projeto_M1_Bl_D/1-DATA/cf74.xml file...
+2018-09-21 17:16:23,388 - inverted_index_generator - WARNING - Document[00036 ]                         doesn't have abstract neither extract!
+2018-09-21 17:16:23,395 - inverted_index_generator - WARNING - Document[00128 ]                         doesn't have abstract neither extract!
+2018-09-21 17:16:23,396 - inverted_index_generator - WARNING - Document[00132 ]                         doesn't have abstract neither extract!
+2018-09-21 17:16:23,399 - inverted_index_generator - INFO - 164 records read succesfully in 0.25419187545776367 s.
+2018-09-21 17:16:23,400 - inverted_index_generator - INFO - Tokenizing documents...
+2018-09-21 17:16:23,722 - inverted_index_generator - INFO - 164 records tokenized succesfully in 0.3219425678253174 s.
+2018-09-21 17:16:23,722 - inverted_index_generator - INFO - Reading /home/thabata/Documents/MIT/Bloco_D/Projeto_M1_Bl_D/1-DATA/cf75.xml file...
+2018-09-21 17:16:24,018 - inverted_index_generator - WARNING - Document[00168]                         doesn't have abstract neither extract!
+2018-09-21 17:16:24,027 - inverted_index_generator - WARNING - Document[00298]                         doesn't have abstract neither extract!
+2018-09-21 17:16:24,029 - inverted_index_generator - WARNING - Document[00329]                         doesn't have abstract neither extract!
+2018-09-21 17:16:24,031 - inverted_index_generator - INFO - 185 records read succesfully in 0.30852532386779785 s.
+2018-09-21 17:16:24,032 - inverted_index_generator - INFO - Tokenizing documents...
+2018-09-21 17:16:24,405 - inverted_index_generator - INFO - 185 records tokenized succesfully in 0.37298583984375 s.
+2018-09-21 17:16:24,405 - inverted_index_generator - INFO - Reading /home/thabata/Documents/MIT/Bloco_D/Projeto_M1_Bl_D/1-DATA/cf76.xml file...
+2018-09-21 17:16:24,867 - inverted_index_generator - WARNING - Document[00493 ]                         doesn't have abstract neither extract!
+2018-09-21 17:16:24,870 - inverted_index_generator - WARNING - Document[00512 ]                         doesn't have abstract neither extract!
+2018-09-21 17:16:24,874 - inverted_index_generator - WARNING - Document[00551 ]                         doesn't have abstract neither extract!
+2018-09-21 17:16:24,876 - inverted_index_generator - INFO - 224 records read succesfully in 0.4709033966064453 s.
+2018-09-21 17:16:24,877 - inverted_index_generator - INFO - Tokenizing documents...
+2018-09-21 17:16:25,315 - inverted_index_generator - INFO - 224 records tokenized succesfully in 0.43741321563720703 s.
+2018-09-21 17:16:25,315 - inverted_index_generator - INFO - Reading /home/thabata/Documents/MIT/Bloco_D/Projeto_M1_Bl_D/1-DATA/cf77.xml file...
+2018-09-21 17:16:25,715 - inverted_index_generator - WARNING - Document[00595 ]                         doesn't have abstract neither extract!
+2018-09-21 17:16:25,725 - inverted_index_generator - WARNING - Document[00712 ]                         doesn't have abstract neither extract!
+2018-09-21 17:16:25,726 - inverted_index_generator - WARNING - Document[00729 ]                         doesn't have abstract neither extract!
+2018-09-21 17:16:25,727 - inverted_index_generator - WARNING - Document[00735 ]                         doesn't have abstract neither extract!
+2018-09-21 17:16:25,730 - inverted_index_generator - INFO - 195 records read succesfully in 0.4152085781097412 s.
+2018-09-21 17:16:25,731 - inverted_index_generator - INFO - Tokenizing documents...
+2018-09-21 17:16:26,104 - inverted_index_generator - INFO - 195 records tokenized succesfully in 0.3728368282318115 s.
+2018-09-21 17:16:26,104 - inverted_index_generator - INFO - Reading /home/thabata/Documents/MIT/Bloco_D/Projeto_M1_Bl_D/1-DATA/cf78.xml file...
+2018-09-21 17:16:26,341 - inverted_index_generator - WARNING - Document[00839 ]                         doesn't have abstract neither extract!
+2018-09-21 17:16:26,345 - inverted_index_generator - WARNING - Document[00894 ]                         doesn't have abstract neither extract!
+2018-09-21 17:16:26,347 - inverted_index_generator - WARNING - Document[00932 ]                         doesn't have abstract neither extract!
+2018-09-21 17:16:26,347 - inverted_index_generator - WARNING - Document[00939 ]                         doesn't have abstract neither extract!
+2018-09-21 17:16:26,350 - inverted_index_generator - INFO - 195 records read succesfully in 0.24534869194030762 s.
+2018-09-21 17:16:26,350 - inverted_index_generator - INFO - Tokenizing documents...
+2018-09-21 17:16:26,697 - inverted_index_generator - INFO - 195 records tokenized succesfully in 0.34612441062927246 s.
+2018-09-21 17:16:26,697 - inverted_index_generator - INFO - Reading /home/thabata/Documents/MIT/Bloco_D/Projeto_M1_Bl_D/1-DATA/cf79.xml file...
+2018-09-21 17:16:27,061 - inverted_index_generator - WARNING - Document[01023 ]                         doesn't have abstract neither extract!
+2018-09-21 17:16:27,064 - inverted_index_generator - WARNING - Document[01069 ]                         doesn't have abstract neither extract!
+2018-09-21 17:16:27,066 - inverted_index_generator - WARNING - Document[01089 ]                         doesn't have abstract neither extract!
+2018-09-21 17:16:27,069 - inverted_index_generator - WARNING - Document[01150 ]                         doesn't have abstract neither extract!
+2018-09-21 17:16:27,069 - inverted_index_generator - WARNING - Document[01154 ]                         doesn't have abstract neither extract!
+2018-09-21 17:16:27,071 - inverted_index_generator - WARNING - Document[01187 ]                         doesn't have abstract neither extract!
+2018-09-21 17:16:27,074 - inverted_index_generator - WARNING - Document[01225 ]                         doesn't have abstract neither extract!
+2018-09-21 17:16:27,075 - inverted_index_generator - INFO - 252 records read succesfully in 0.3776519298553467 s.
+2018-09-21 17:16:27,075 - inverted_index_generator - INFO - Tokenizing documents...
+2018-09-21 17:16:27,553 - inverted_index_generator - INFO - 252 records tokenized succesfully in 0.4773547649383545 s.
+2018-09-21 17:16:27,554 - inverted_index_generator - INFO - All 1215 documents read and tokenized successfully in 4.410195589065552 s
+2018-09-21 17:16:27,554 - inverted_index_generator - INFO - Making inverted index...
+2018-09-21 17:16:27,571 - inverted_index_generator - INFO - Inverted index created in 0.01711869239807129 s
+2018-09-21 17:16:27,572 - inverted_index_generator - INFO - Writing Inverted Index on file...
+2018-09-21 17:16:27,586 - inverted_index_generator - INFO - Write operation finished with 1537560983.1765482 s
+2018-09-21 17:16:27,587 - inverted_index_generator - INFO - End of Inverted Index Generator Module. Total of 4.443286180496216 elapsed.
+2018-09-21 17:17:38,097 - inverted_index_generator - INFO - Processing Inverted Index Generator Module...
+2018-09-21 17:17:38,099 - inverted_index_generator - INFO - Reading /home/thabata/Documents/MIT/Bloco_D/Projeto_M1_Bl_D/1-DATA/cf74.xml file...
+2018-09-21 17:17:38,343 - inverted_index_generator - WARNING - Document[00036 ]                         doesn't have abstract neither extract!
+2018-09-21 17:17:38,350 - inverted_index_generator - WARNING - Document[00128 ]                         doesn't have abstract neither extract!
+2018-09-21 17:17:38,351 - inverted_index_generator - WARNING - Document[00132 ]                         doesn't have abstract neither extract!
+2018-09-21 17:17:38,354 - inverted_index_generator - INFO - 164 records read succesfully in 0.2552452087402344 s.
+2018-09-21 17:17:38,355 - inverted_index_generator - INFO - Tokenizing documents...
+2018-09-21 17:17:38,681 - inverted_index_generator - INFO - 164 records tokenized succesfully in 0.32561230659484863 s.
+2018-09-21 17:17:38,681 - inverted_index_generator - INFO - Reading /home/thabata/Documents/MIT/Bloco_D/Projeto_M1_Bl_D/1-DATA/cf75.xml file...
+2018-09-21 17:17:38,971 - inverted_index_generator - WARNING - Document[00168]                         doesn't have abstract neither extract!
+2018-09-21 17:17:38,982 - inverted_index_generator - WARNING - Document[00298]                         doesn't have abstract neither extract!
+2018-09-21 17:17:38,985 - inverted_index_generator - WARNING - Document[00329]                         doesn't have abstract neither extract!
+2018-09-21 17:17:38,986 - inverted_index_generator - INFO - 185 records read succesfully in 0.30492138862609863 s.
+2018-09-21 17:17:38,987 - inverted_index_generator - INFO - Tokenizing documents...
+2018-09-21 17:17:39,362 - inverted_index_generator - INFO - 185 records tokenized succesfully in 0.37478113174438477 s.
+2018-09-21 17:17:39,362 - inverted_index_generator - INFO - Reading /home/thabata/Documents/MIT/Bloco_D/Projeto_M1_Bl_D/1-DATA/cf76.xml file...
+2018-09-21 17:17:39,823 - inverted_index_generator - WARNING - Document[00493 ]                         doesn't have abstract neither extract!
+2018-09-21 17:17:39,826 - inverted_index_generator - WARNING - Document[00512 ]                         doesn't have abstract neither extract!
+2018-09-21 17:17:39,829 - inverted_index_generator - WARNING - Document[00551 ]                         doesn't have abstract neither extract!
+2018-09-21 17:17:39,832 - inverted_index_generator - INFO - 224 records read succesfully in 0.4690709114074707 s.
+2018-09-21 17:17:39,832 - inverted_index_generator - INFO - Tokenizing documents...
+2018-09-21 17:17:40,274 - inverted_index_generator - INFO - 224 records tokenized succesfully in 0.44140195846557617 s.
+2018-09-21 17:17:40,274 - inverted_index_generator - INFO - Reading /home/thabata/Documents/MIT/Bloco_D/Projeto_M1_Bl_D/1-DATA/cf77.xml file...
+2018-09-21 17:17:40,667 - inverted_index_generator - WARNING - Document[00595 ]                         doesn't have abstract neither extract!
+2018-09-21 17:17:40,676 - inverted_index_generator - WARNING - Document[00712 ]                         doesn't have abstract neither extract!
+2018-09-21 17:17:40,678 - inverted_index_generator - WARNING - Document[00729 ]                         doesn't have abstract neither extract!
+2018-09-21 17:17:40,678 - inverted_index_generator - WARNING - Document[00735 ]                         doesn't have abstract neither extract!
+2018-09-21 17:17:40,682 - inverted_index_generator - INFO - 195 records read succesfully in 0.40729475021362305 s.
+2018-09-21 17:17:40,682 - inverted_index_generator - INFO - Tokenizing documents...
+2018-09-21 17:17:41,058 - inverted_index_generator - INFO - 195 records tokenized succesfully in 0.37538909912109375 s.
+2018-09-21 17:17:41,059 - inverted_index_generator - INFO - Reading /home/thabata/Documents/MIT/Bloco_D/Projeto_M1_Bl_D/1-DATA/cf78.xml file...
+2018-09-21 17:17:41,289 - inverted_index_generator - WARNING - Document[00839 ]                         doesn't have abstract neither extract!
+2018-09-21 17:17:41,292 - inverted_index_generator - WARNING - Document[00894 ]                         doesn't have abstract neither extract!
+2018-09-21 17:17:41,295 - inverted_index_generator - WARNING - Document[00932 ]                         doesn't have abstract neither extract!
+2018-09-21 17:17:41,296 - inverted_index_generator - WARNING - Document[00939 ]                         doesn't have abstract neither extract!
+2018-09-21 17:17:41,298 - inverted_index_generator - INFO - 195 records read succesfully in 0.23939156532287598 s.
+2018-09-21 17:17:41,299 - inverted_index_generator - INFO - Tokenizing documents...
+2018-09-21 17:17:41,651 - inverted_index_generator - INFO - 195 records tokenized succesfully in 0.35157084465026855 s.
+2018-09-21 17:17:41,651 - inverted_index_generator - INFO - Reading /home/thabata/Documents/MIT/Bloco_D/Projeto_M1_Bl_D/1-DATA/cf79.xml file...
+2018-09-21 17:17:42,009 - inverted_index_generator - WARNING - Document[01023 ]                         doesn't have abstract neither extract!
+2018-09-21 17:17:42,012 - inverted_index_generator - WARNING - Document[01069 ]                         doesn't have abstract neither extract!
+2018-09-21 17:17:42,014 - inverted_index_generator - WARNING - Document[01089 ]                         doesn't have abstract neither extract!
+2018-09-21 17:17:42,018 - inverted_index_generator - WARNING - Document[01150 ]                         doesn't have abstract neither extract!
+2018-09-21 17:17:42,018 - inverted_index_generator - WARNING - Document[01154 ]                         doesn't have abstract neither extract!
+2018-09-21 17:17:42,020 - inverted_index_generator - WARNING - Document[01187 ]                         doesn't have abstract neither extract!
+2018-09-21 17:17:42,023 - inverted_index_generator - WARNING - Document[01225 ]                         doesn't have abstract neither extract!
+2018-09-21 17:17:42,024 - inverted_index_generator - INFO - 252 records read succesfully in 0.3732004165649414 s.
+2018-09-21 17:17:42,025 - inverted_index_generator - INFO - Tokenizing documents...
+2018-09-21 17:17:42,501 - inverted_index_generator - INFO - 252 records tokenized succesfully in 0.4760134220123291 s.
+2018-09-21 17:17:42,502 - inverted_index_generator - INFO - All 1215 documents read and tokenized successfully in 4.404195308685303 s
+2018-09-21 17:17:42,502 - inverted_index_generator - INFO - Making inverted index...
+2018-09-21 17:17:42,520 - inverted_index_generator - INFO - Inverted index created in 0.017810583114624023 s
+2018-09-21 17:17:42,520 - inverted_index_generator - INFO - Writing Inverted Index on file...
+2018-09-21 17:17:42,535 - inverted_index_generator - INFO - Write operation finished with 1537561058.1316478 s
+2018-09-21 17:17:42,536 - inverted_index_generator - INFO - End of Inverted Index Generator Module. Total of 4.438361883163452 elapsed.
+2018-09-21 17:18:56,089 - inverted_index_generator - INFO - Processing Inverted Index Generator Module...
+2018-09-21 17:18:56,091 - inverted_index_generator - INFO - Reading /home/thabata/Documents/MIT/Bloco_D/Projeto_M1_Bl_D/1-DATA/cf74.xml file...
+2018-09-21 17:18:56,330 - inverted_index_generator - WARNING - Document[00036 ]                         doesn't have abstract neither extract!
+2018-09-21 17:18:56,337 - inverted_index_generator - WARNING - Document[00128 ]                         doesn't have abstract neither extract!
+2018-09-21 17:18:56,338 - inverted_index_generator - WARNING - Document[00132 ]                         doesn't have abstract neither extract!
+2018-09-21 17:18:56,341 - inverted_index_generator - INFO - 164 records read succesfully in 0.2502632141113281 s.
+2018-09-21 17:18:56,341 - inverted_index_generator - INFO - Tokenizing documents...
+2018-09-21 17:18:56,667 - inverted_index_generator - INFO - 164 records tokenized succesfully in 0.3246903419494629 s.
+2018-09-21 17:18:56,667 - inverted_index_generator - INFO - Reading /home/thabata/Documents/MIT/Bloco_D/Projeto_M1_Bl_D/1-DATA/cf75.xml file...
+2018-09-21 17:18:56,957 - inverted_index_generator - WARNING - Document[00168]                         doesn't have abstract neither extract!
+2018-09-21 17:18:56,966 - inverted_index_generator - WARNING - Document[00298]                         doesn't have abstract neither extract!
+2018-09-21 17:18:56,969 - inverted_index_generator - WARNING - Document[00329]                         doesn't have abstract neither extract!
+2018-09-21 17:18:56,970 - inverted_index_generator - INFO - 185 records read succesfully in 0.3030531406402588 s.
+2018-09-21 17:18:56,971 - inverted_index_generator - INFO - Tokenizing documents...
+2018-09-21 17:18:57,360 - inverted_index_generator - INFO - 185 records tokenized succesfully in 0.38851022720336914 s.
+2018-09-21 17:18:57,360 - inverted_index_generator - INFO - Reading /home/thabata/Documents/MIT/Bloco_D/Projeto_M1_Bl_D/1-DATA/cf76.xml file...
+2018-09-21 17:18:57,810 - inverted_index_generator - WARNING - Document[00493 ]                         doesn't have abstract neither extract!
+2018-09-21 17:18:57,813 - inverted_index_generator - WARNING - Document[00512 ]                         doesn't have abstract neither extract!
+2018-09-21 17:18:57,816 - inverted_index_generator - WARNING - Document[00551 ]                         doesn't have abstract neither extract!
+2018-09-21 17:18:57,819 - inverted_index_generator - INFO - 224 records read succesfully in 0.4580538272857666 s.
+2018-09-21 17:18:57,819 - inverted_index_generator - INFO - Tokenizing documents...
+2018-09-21 17:18:58,264 - inverted_index_generator - INFO - 224 records tokenized succesfully in 0.4442300796508789 s.
+2018-09-21 17:18:58,264 - inverted_index_generator - INFO - Reading /home/thabata/Documents/MIT/Bloco_D/Projeto_M1_Bl_D/1-DATA/cf77.xml file...
+2018-09-21 17:18:58,660 - inverted_index_generator - WARNING - Document[00595 ]                         doesn't have abstract neither extract!
+2018-09-21 17:18:58,669 - inverted_index_generator - WARNING - Document[00712 ]                         doesn't have abstract neither extract!
+2018-09-21 17:18:58,671 - inverted_index_generator - WARNING - Document[00729 ]                         doesn't have abstract neither extract!
+2018-09-21 17:18:58,672 - inverted_index_generator - WARNING - Document[00735 ]                         doesn't have abstract neither extract!
+2018-09-21 17:18:58,675 - inverted_index_generator - INFO - 195 records read succesfully in 0.41094136238098145 s.
+2018-09-21 17:18:58,676 - inverted_index_generator - INFO - Tokenizing documents...
+2018-09-21 17:18:59,054 - inverted_index_generator - INFO - 195 records tokenized succesfully in 0.3774600028991699 s.
+2018-09-21 17:18:59,054 - inverted_index_generator - INFO - Reading /home/thabata/Documents/MIT/Bloco_D/Projeto_M1_Bl_D/1-DATA/cf78.xml file...
+2018-09-21 17:18:59,283 - inverted_index_generator - WARNING - Document[00839 ]                         doesn't have abstract neither extract!
+2018-09-21 17:18:59,286 - inverted_index_generator - WARNING - Document[00894 ]                         doesn't have abstract neither extract!
+2018-09-21 17:18:59,288 - inverted_index_generator - WARNING - Document[00932 ]                         doesn't have abstract neither extract!
+2018-09-21 17:18:59,289 - inverted_index_generator - WARNING - Document[00939 ]                         doesn't have abstract neither extract!
+2018-09-21 17:18:59,292 - inverted_index_generator - INFO - 195 records read succesfully in 0.23731136322021484 s.
+2018-09-21 17:18:59,292 - inverted_index_generator - INFO - Tokenizing documents...
+2018-09-21 17:18:59,642 - inverted_index_generator - INFO - 195 records tokenized succesfully in 0.34954190254211426 s.
+2018-09-21 17:18:59,642 - inverted_index_generator - INFO - Reading /home/thabata/Documents/MIT/Bloco_D/Projeto_M1_Bl_D/1-DATA/cf79.xml file...
+2018-09-21 17:19:00,001 - inverted_index_generator - WARNING - Document[01023 ]                         doesn't have abstract neither extract!
+2018-09-21 17:19:00,004 - inverted_index_generator - WARNING - Document[01069 ]                         doesn't have abstract neither extract!
+2018-09-21 17:19:00,006 - inverted_index_generator - WARNING - Document[01089 ]                         doesn't have abstract neither extract!
+2018-09-21 17:19:00,009 - inverted_index_generator - WARNING - Document[01150 ]                         doesn't have abstract neither extract!
+2018-09-21 17:19:00,009 - inverted_index_generator - WARNING - Document[01154 ]                         doesn't have abstract neither extract!
+2018-09-21 17:19:00,011 - inverted_index_generator - WARNING - Document[01187 ]                         doesn't have abstract neither extract!
+2018-09-21 17:19:00,014 - inverted_index_generator - WARNING - Document[01225 ]                         doesn't have abstract neither extract!
+2018-09-21 17:19:00,015 - inverted_index_generator - INFO - 252 records read succesfully in 0.37251996994018555 s.
+2018-09-21 17:19:00,015 - inverted_index_generator - INFO - Tokenizing documents...
+2018-09-21 17:19:00,496 - inverted_index_generator - INFO - 252 records tokenized succesfully in 0.48021864891052246 s.
+2018-09-21 17:19:00,496 - inverted_index_generator - INFO - All 1215 documents read and tokenized successfully in 4.407337188720703 s
+2018-09-21 17:19:00,497 - inverted_index_generator - INFO - Making inverted index...
+2018-09-21 17:19:00,514 - inverted_index_generator - INFO - Inverted index created in 0.0171205997467041 s
+2018-09-21 17:19:00,515 - inverted_index_generator - INFO - Writing Inverted Index on file...
+2018-09-21 17:19:00,529 - inverted_index_generator - INFO - Write operation finished with 0.03286910057067871 s
+2018-09-21 17:19:00,530 - inverted_index_generator - INFO - End of Inverted Index Generator Module. Total of 4.440596103668213 elapsed.
+2018-09-21 18:03:28,783 - inverted_index_generator - INFO - Processing Inverted Index Generator Module...
+2018-09-21 18:03:28,784 - inverted_index_generator - INFO - Reading /home/thabata/Documents/MIT/Bloco_D/Projeto_M1_Bl_D/1-DATA/cf74.xml file...
+2018-09-21 18:03:29,026 - inverted_index_generator - WARNING - Document[00036 ]                         doesn't have abstract neither extract!
+2018-09-21 18:03:29,034 - inverted_index_generator - WARNING - Document[00128 ]                         doesn't have abstract neither extract!
+2018-09-21 18:03:29,035 - inverted_index_generator - WARNING - Document[00132 ]                         doesn't have abstract neither extract!
+2018-09-21 18:03:29,039 - inverted_index_generator - INFO - 164 records read succesfully in 0.2540435791015625 s.
+2018-09-21 18:03:29,039 - inverted_index_generator - INFO - Tokenizing documents...
+2018-09-21 18:03:29,363 - inverted_index_generator - INFO - 164 records tokenized succesfully in 0.3233602046966553 s.
+2018-09-21 18:03:29,363 - inverted_index_generator - INFO - Reading /home/thabata/Documents/MIT/Bloco_D/Projeto_M1_Bl_D/1-DATA/cf75.xml file...
+2018-09-21 18:03:29,656 - inverted_index_generator - WARNING - Document[00168]                         doesn't have abstract neither extract!
+2018-09-21 18:03:29,665 - inverted_index_generator - WARNING - Document[00298]                         doesn't have abstract neither extract!
+2018-09-21 18:03:29,668 - inverted_index_generator - WARNING - Document[00329]                         doesn't have abstract neither extract!
+2018-09-21 18:03:29,670 - inverted_index_generator - INFO - 185 records read succesfully in 0.3063833713531494 s.
+2018-09-21 18:03:29,670 - inverted_index_generator - INFO - Tokenizing documents...
+2018-09-21 18:03:30,043 - inverted_index_generator - INFO - 185 records tokenized succesfully in 0.3728625774383545 s.
+2018-09-21 18:03:30,044 - inverted_index_generator - INFO - Reading /home/thabata/Documents/MIT/Bloco_D/Projeto_M1_Bl_D/1-DATA/cf76.xml file...
+2018-09-21 18:03:30,508 - inverted_index_generator - WARNING - Document[00493 ]                         doesn't have abstract neither extract!
+2018-09-21 18:03:30,511 - inverted_index_generator - WARNING - Document[00512 ]                         doesn't have abstract neither extract!
+2018-09-21 18:03:30,514 - inverted_index_generator - WARNING - Document[00551 ]                         doesn't have abstract neither extract!
+2018-09-21 18:03:30,517 - inverted_index_generator - INFO - 224 records read succesfully in 0.472836971282959 s.
+2018-09-21 18:03:30,517 - inverted_index_generator - INFO - Tokenizing documents...
+2018-09-21 18:03:30,959 - inverted_index_generator - INFO - 224 records tokenized succesfully in 0.44137096405029297 s.
+2018-09-21 18:03:30,959 - inverted_index_generator - INFO - Reading /home/thabata/Documents/MIT/Bloco_D/Projeto_M1_Bl_D/1-DATA/cf77.xml file...
+2018-09-21 18:03:31,347 - inverted_index_generator - WARNING - Document[00595 ]                         doesn't have abstract neither extract!
+2018-09-21 18:03:31,357 - inverted_index_generator - WARNING - Document[00712 ]                         doesn't have abstract neither extract!
+2018-09-21 18:03:31,359 - inverted_index_generator - WARNING - Document[00729 ]                         doesn't have abstract neither extract!
+2018-09-21 18:03:31,360 - inverted_index_generator - WARNING - Document[00735 ]                         doesn't have abstract neither extract!
+2018-09-21 18:03:31,363 - inverted_index_generator - INFO - 195 records read succesfully in 0.40361833572387695 s.
+2018-09-21 18:03:31,364 - inverted_index_generator - INFO - Tokenizing documents...
+2018-09-21 18:03:31,741 - inverted_index_generator - INFO - 195 records tokenized succesfully in 0.3772580623626709 s.
+2018-09-21 18:03:31,742 - inverted_index_generator - INFO - Reading /home/thabata/Documents/MIT/Bloco_D/Projeto_M1_Bl_D/1-DATA/cf78.xml file...
+2018-09-21 18:03:31,978 - inverted_index_generator - WARNING - Document[00839 ]                         doesn't have abstract neither extract!
+2018-09-21 18:03:31,982 - inverted_index_generator - WARNING - Document[00894 ]                         doesn't have abstract neither extract!
+2018-09-21 18:03:31,984 - inverted_index_generator - WARNING - Document[00932 ]                         doesn't have abstract neither extract!
+2018-09-21 18:03:31,985 - inverted_index_generator - WARNING - Document[00939 ]                         doesn't have abstract neither extract!
+2018-09-21 18:03:31,988 - inverted_index_generator - INFO - 195 records read succesfully in 0.24565720558166504 s.
+2018-09-21 18:03:31,988 - inverted_index_generator - INFO - Tokenizing documents...
+2018-09-21 18:03:32,335 - inverted_index_generator - INFO - 195 records tokenized succesfully in 0.3460569381713867 s.
+2018-09-21 18:03:32,335 - inverted_index_generator - INFO - Reading /home/thabata/Documents/MIT/Bloco_D/Projeto_M1_Bl_D/1-DATA/cf79.xml file...
+2018-09-21 18:03:32,698 - inverted_index_generator - WARNING - Document[01023 ]                         doesn't have abstract neither extract!
+2018-09-21 18:03:32,701 - inverted_index_generator - WARNING - Document[01069 ]                         doesn't have abstract neither extract!
+2018-09-21 18:03:32,703 - inverted_index_generator - WARNING - Document[01089 ]                         doesn't have abstract neither extract!
+2018-09-21 18:03:32,706 - inverted_index_generator - WARNING - Document[01150 ]                         doesn't have abstract neither extract!
+2018-09-21 18:03:32,707 - inverted_index_generator - WARNING - Document[01154 ]                         doesn't have abstract neither extract!
+2018-09-21 18:03:32,709 - inverted_index_generator - WARNING - Document[01187 ]                         doesn't have abstract neither extract!
+2018-09-21 18:03:32,712 - inverted_index_generator - WARNING - Document[01225 ]                         doesn't have abstract neither extract!
+2018-09-21 18:03:32,713 - inverted_index_generator - INFO - 252 records read succesfully in 0.37806034088134766 s.
+2018-09-21 18:03:32,714 - inverted_index_generator - INFO - Tokenizing documents...
+2018-09-21 18:03:33,192 - inverted_index_generator - INFO - 252 records tokenized succesfully in 0.4782896041870117 s.
+2018-09-21 18:03:33,193 - inverted_index_generator - INFO - All 1215 documents read and tokenized successfully in 4.409797191619873 s
+2018-09-21 18:03:33,193 - inverted_index_generator - INFO - Making inverted index...
+2018-09-21 18:03:33,210 - inverted_index_generator - INFO - Inverted index created in 0.017212629318237305 s
+2018-09-21 18:03:33,211 - inverted_index_generator - INFO - Writing Inverted Index on file...
+2018-09-21 18:03:33,225 - inverted_index_generator - INFO - Inverted index written in 0.014268636703491211 s
+2018-09-21 18:03:33,226 - inverted_index_generator - INFO - Write operation finished with 0.033753156661987305 s
+2018-09-21 18:03:33,227 - inverted_index_generator - INFO - End of Inverted Index Generator Module. Total of 4.443905353546143 elapsed.

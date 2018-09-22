@@ -1,0 +1,425 @@
+<?xml version="1.0"?>
+<!DOCTYPE FILEQUERY SYSTEM "cfcquery-2.dtd">
+<FILEQUERY>
+	<QUERY>
+		<QueryNumber>00001</QueryNumber>
+		<QueryText>What are the effects of calcium on the physical properties of mucus
+   from CF patients? 
+</QueryText>
+		<Results>00034</Results>
+		<Records>
+			<Item score="1222">139</Item>
+			<Item score="2211">151</Item>
+			<Item score="0001">166</Item>
+			<Item score="0001">311</Item>
+			<Item score="1010">370</Item>
+			<Item score="0001">392</Item>
+			<Item score="0001">439</Item>
+			<Item score="0011">440</Item>
+			<Item score="2122">441</Item>
+			<Item score="0100">454</Item>
+			<Item score="1121">461</Item>
+			<Item score="0002">502</Item>
+			<Item score="1000">503</Item>
+			<Item score="0001">505</Item>
+			<Item score="1010">520</Item>
+			<Item score="0001">522</Item>
+			<Item score="1011">526</Item>
+			<Item score="1001">527</Item>
+			<Item score="2222">533</Item>
+			<Item score="1000">593</Item>
+			<Item score="0001">619</Item>
+			<Item score="0100">737</Item>
+			<Item score="0100">742</Item>
+			<Item score="0001">789</Item>
+			<Item score="0010">827</Item>
+			<Item score="0001">835</Item>
+			<Item score="0001">861</Item>
+			<Item score="1121">875</Item>
+			<Item score="0001">891</Item>
+			<Item score="1010">921</Item>
+			<Item score="1010">922</Item>
+			<Item score="0100">1175</Item>
+			<Item score="0001">1185</Item>
+			<Item score="0001">1222</Item>
+		</Records>
+	</QUERY>
+	<QUERY>
+		<QueryNumber>00002</QueryNumber>
+		<QueryText>Can one distinguish between the effects of mucus hypersecretion and
+   infection on the submucosal glands of the respiratory tract in CF?
+</QueryText>
+		<Results>00007</Results>
+		<Records>
+			<Item score="1000">169</Item>
+			<Item score="1001">434</Item>
+			<Item score="0100">454</Item>
+			<Item score="1000">498</Item>
+			<Item score="1000">499</Item>
+			<Item score="0002">592</Item>
+			<Item score="1011">875</Item>
+		</Records>
+	</QUERY>
+	<QUERY>
+		<QueryNumber>00003</QueryNumber>
+		<QueryText>How are salivary glycoproteins from CF patients different from those of
+   normal subjects?
+</QueryText>
+		<Results>00043</Results>
+		<Records>
+			<Item score="1000">23</Item>
+			<Item score="0010">40</Item>
+			<Item score="2122">139</Item>
+			<Item score="0001">190</Item>
+			<Item score="0001">221</Item>
+			<Item score="0001">246</Item>
+			<Item score="1000">309</Item>
+			<Item score="0011">311</Item>
+			<Item score="0001">325</Item>
+			<Item score="0010">345</Item>
+			<Item score="0010">347</Item>
+			<Item score="0010">356</Item>
+			<Item score="1001">370</Item>
+			<Item score="0001">374</Item>
+			<Item score="2221">375</Item>
+			<Item score="0001">439</Item>
+			<Item score="1120">440</Item>
+			<Item score="1220">454</Item>
+			<Item score="1000">515</Item>
+			<Item score="0010">520</Item>
+			<Item score="0010">524</Item>
+			<Item score="1010">526</Item>
+			<Item score="1220">527</Item>
+			<Item score="0001">533</Item>
+			<Item score="0010">535</Item>
+			<Item score="0010">560</Item>
+			<Item score="0001">561</Item>
+			<Item score="0010">571</Item>
+			<Item score="0010">584</Item>
+			<Item score="0002">604</Item>
+			<Item score="0010">623</Item>
+			<Item score="2222">633</Item>
+			<Item score="1000">733</Item>
+			<Item score="1010">742</Item>
+			<Item score="0100">854</Item>
+			<Item score="2112">856</Item>
+			<Item score="0010">950</Item>
+			<Item score="0001">967</Item>
+			<Item score="1111">1144</Item>
+			<Item score="0001">1161</Item>
+			<Item score="1000">1172</Item>
+			<Item score="0001">1175</Item>
+			<Item score="0002">1196</Item>
+		</Records>
+	</QUERY>
+	<QUERY>
+		<QueryNumber>00004</QueryNumber>
+		<QueryText>What is the lipid composition of CF respiratory secretions?
+</QueryText>
+		<Results>00009</Results>
+		<Records>
+			<Item score="0001">503</Item>
+			<Item score="0100">538</Item>
+			<Item score="0100">539</Item>
+			<Item score="0100">540</Item>
+			<Item score="0001">553</Item>
+			<Item score="2222">604</Item>
+			<Item score="1010">669</Item>
+			<Item score="2122">711</Item>
+			<Item score="2222">876</Item>
+		</Records>
+	</QUERY>
+	<QUERY>
+		<QueryNumber>00005</QueryNumber>
+		<QueryText>Is CF mucus abnormal?
+</QueryText>
+		<Results>00131</Results>
+		<Records>
+			<Item score="2220">23</Item>
+			<Item score="2221">47</Item>
+			<Item score="0001">50</Item>
+			<Item score="0001">60</Item>
+			<Item score="0011">114</Item>
+			<Item score="0001">132</Item>
+			<Item score="0001">135</Item>
+			<Item score="0010">139</Item>
+			<Item score="2222">151</Item>
+			<Item score="0001">169</Item>
+			<Item score="0001">189</Item>
+			<Item score="0001">190</Item>
+			<Item score="0001">197</Item>
+			<Item score="0001">200</Item>
+			<Item score="0001">226</Item>
+			<Item score="2211">256</Item>
+			<Item score="0010">265</Item>
+			<Item score="0001">297</Item>
+			<Item score="0001">298</Item>
+			<Item score="0001">299</Item>
+			<Item score="0001">311</Item>
+			<Item score="0001">312</Item>
+			<Item score="1011">325</Item>
+			<Item score="0001">333</Item>
+			<Item score="0002">343</Item>
+			<Item score="0012">347</Item>
+			<Item score="0001">349</Item>
+			<Item score="0001">369</Item>
+			<Item score="1211">370</Item>
+			<Item score="0001">371</Item>
+			<Item score="2222">374</Item>
+			<Item score="1001">386</Item>
+			<Item score="0001">392</Item>
+			<Item score="0001">410</Item>
+			<Item score="0001">420</Item>
+			<Item score="0001">427</Item>
+			<Item score="0001">428</Item>
+			<Item score="1001">430</Item>
+			<Item score="0001">434</Item>
+			<Item score="0001">437</Item>
+			<Item score="2222">439</Item>
+			<Item score="0010">440</Item>
+			<Item score="0001">441</Item>
+			<Item score="0001">450</Item>
+			<Item score="2120">461</Item>
+			<Item score="1002">465</Item>
+			<Item score="0001">478</Item>
+			<Item score="2120">496</Item>
+			<Item score="2121">497</Item>
+			<Item score="1122">498</Item>
+			<Item score="2122">499</Item>
+			<Item score="1012">500</Item>
+			<Item score="0100">501</Item>
+			<Item score="0100">502</Item>
+			<Item score="2221">503</Item>
+			<Item score="0001">505</Item>
+			<Item score="1101">511</Item>
+			<Item score="0010">513</Item>
+			<Item score="1010">516</Item>
+			<Item score="1000">520</Item>
+			<Item score="1010">524</Item>
+			<Item score="0001">531</Item>
+			<Item score="2211">533</Item>
+			<Item score="0001">549</Item>
+			<Item score="1001">553</Item>
+			<Item score="0001">559</Item>
+			<Item score="0010">561</Item>
+			<Item score="0001">568</Item>
+			<Item score="0001">590</Item>
+			<Item score="1001">592</Item>
+			<Item score="2222">593</Item>
+			<Item score="0002">604</Item>
+			<Item score="0100">605</Item>
+			<Item score="2122">633</Item>
+			<Item score="0010">669</Item>
+			<Item score="0001">701</Item>
+			<Item score="1000">702</Item>
+			<Item score="2212">710</Item>
+			<Item score="0002">711</Item>
+			<Item score="0001">722</Item>
+			<Item score="0002">724</Item>
+			<Item score="0001">729</Item>
+			<Item score="0002">731</Item>
+			<Item score="0002">733</Item>
+			<Item score="0100">750</Item>
+			<Item score="0001">761</Item>
+			<Item score="0001">763</Item>
+			<Item score="0100">772</Item>
+			<Item score="0001">779</Item>
+			<Item score="0001">788</Item>
+			<Item score="2211">805</Item>
+			<Item score="0002">843</Item>
+			<Item score="0001">845</Item>
+			<Item score="2121">856</Item>
+			<Item score="1000">857</Item>
+			<Item score="1212">861</Item>
+			<Item score="0001">864</Item>
+			<Item score="0101">867</Item>
+			<Item score="2222">875</Item>
+			<Item score="0002">876</Item>
+			<Item score="0002">888</Item>
+			<Item score="0002">889</Item>
+			<Item score="2210">895</Item>
+			<Item score="0001">925</Item>
+			<Item score="0001">935</Item>
+			<Item score="0001">943</Item>
+			<Item score="0001">944</Item>
+			<Item score="2112">975</Item>
+			<Item score="2120">980</Item>
+			<Item score="0002">982</Item>
+			<Item score="0002">990</Item>
+			<Item score="0002">1000</Item>
+			<Item score="0001">1019</Item>
+			<Item score="0001">1038</Item>
+			<Item score="0001">1040</Item>
+			<Item score="2220">1064</Item>
+			<Item score="0001">1076</Item>
+			<Item score="0001">1080</Item>
+			<Item score="0001">1088</Item>
+			<Item score="0001">1091</Item>
+			<Item score="0002">1092</Item>
+			<Item score="0002">1093</Item>
+			<Item score="0001">1098</Item>
+			<Item score="2111">1144</Item>
+			<Item score="0001">1156</Item>
+			<Item score="1120">1175</Item>
+			<Item score="0001">1185</Item>
+			<Item score="0001">1188</Item>
+			<Item score="1000">1196</Item>
+			<Item score="0001">1223</Item>
+			<Item score="0001">1226</Item>
+		</Records>
+	</QUERY>
+	<QUERY>
+		<QueryNumber>00006</QueryNumber>
+		<QueryText>What is the effect of water or other therapeutic agents on the physical
+   properties (viscosity, elasticity) of sputum or bronchial secretions
+   from CF patients?
+</QueryText>
+		<Results>00024</Results>
+		<Records>
+			<Item score="0010">25</Item>
+			<Item score="2222">31</Item>
+			<Item score="1000">90</Item>
+			<Item score="0100">195</Item>
+			<Item score="0001">326</Item>
+			<Item score="0110">370</Item>
+			<Item score="0001">438</Item>
+			<Item score="0010">440</Item>
+			<Item score="1000">441</Item>
+			<Item score="1220">503</Item>
+			<Item score="0010">511</Item>
+			<Item score="0001">586</Item>
+			<Item score="1010">592</Item>
+			<Item score="1000">593</Item>
+			<Item score="0001">722</Item>
+			<Item score="0001">731</Item>
+			<Item score="0002">734</Item>
+			<Item score="1000">805</Item>
+			<Item score="1120">875</Item>
+			<Item score="0010">922</Item>
+			<Item score="1000">963</Item>
+			<Item score="1010">975</Item>
+			<Item score="0001">1092</Item>
+			<Item score="0002">1093</Item>
+		</Records>
+	</QUERY>
+	<QUERY>
+		<QueryNumber>00007</QueryNumber>
+		<QueryText>Are mucus glycoproteins degraded differently in CF patients as compared
+   to those from normal subjects?
+</QueryText>
+		<Results>00028</Results>
+		<Records>
+			<Item score="0100">45</Item>
+			<Item score="0001">53</Item>
+			<Item score="0002">166</Item>
+			<Item score="0001">171</Item>
+			<Item score="0101">256</Item>
+			<Item score="0001">370</Item>
+			<Item score="2122">371</Item>
+			<Item score="0001">386</Item>
+			<Item score="0100">410</Item>
+			<Item score="0101">439</Item>
+			<Item score="0001">535</Item>
+			<Item score="2121">623</Item>
+			<Item score="0100">633</Item>
+			<Item score="0100">634</Item>
+			<Item score="0010">640</Item>
+			<Item score="0010">669</Item>
+			<Item score="0100">831</Item>
+			<Item score="0100">853</Item>
+			<Item score="2111">856</Item>
+			<Item score="0100">857</Item>
+			<Item score="0010">921</Item>
+			<Item score="0100">1027</Item>
+			<Item score="1100">1054</Item>
+			<Item score="0100">1056</Item>
+			<Item score="0100">1057</Item>
+			<Item score="0100">1059</Item>
+			<Item score="1120">1064</Item>
+			<Item score="0001">1161</Item>
+		</Records>
+	</QUERY>
+	<QUERY>
+		<QueryNumber>00008</QueryNumber>
+		<QueryText>What histochemical differences have been described between normal and
+   CF respiratory epithelia?
+</QueryText>
+		<Results>00022</Results>
+		<Records>
+			<Item score="2112">23</Item>
+			<Item score="1000">169</Item>
+			<Item score="0100">322</Item>
+			<Item score="1000">370</Item>
+			<Item score="1000">386</Item>
+			<Item score="0001">435</Item>
+			<Item score="1100">439</Item>
+			<Item score="0001">463</Item>
+			<Item score="1000">496</Item>
+			<Item score="0001">497</Item>
+			<Item score="1000">498</Item>
+			<Item score="1122">499</Item>
+			<Item score="0001">503</Item>
+			<Item score="0001">605</Item>
+			<Item score="2220">683</Item>
+			<Item score="1000">710</Item>
+			<Item score="0010">750</Item>
+			<Item score="1000">771</Item>
+			<Item score="1000">867</Item>
+			<Item score="0001">875</Item>
+			<Item score="0001">944</Item>
+			<Item score="2220">1125</Item>
+		</Records>
+	</QUERY>
+	<QUERY>
+		<QueryNumber>00009</QueryNumber>
+		<QueryText>What is the association between liver disease (cirrhosis) and vitamin A
+   metabolism in CF?
+</QueryText>
+		<Results>00010</Results>
+		<Records>
+			<Item score="1122">165</Item>
+			<Item score="0001">174</Item>
+			<Item score="0001">362</Item>
+			<Item score="0001">370</Item>
+			<Item score="2222">414</Item>
+			<Item score="0100">443</Item>
+			<Item score="2110">794</Item>
+			<Item score="1010">992</Item>
+			<Item score="0001">1040</Item>
+			<Item score="0102">1115</Item>
+		</Records>
+	</QUERY>
+	<QUERY>
+		<QueryNumber>00010</QueryNumber>
+		<QueryText>What is the role of Vitamin E in the therapy of patients with CF?
+</QueryText>
+		<Results>00025</Results>
+		<Records>
+			<Item score="2112">30</Item>
+			<Item score="1001">126</Item>
+			<Item score="2222">157</Item>
+			<Item score="1112">170</Item>
+			<Item score="1212">296</Item>
+			<Item score="0001">301</Item>
+			<Item score="0001">322</Item>
+			<Item score="1100">370</Item>
+			<Item score="2222">413</Item>
+			<Item score="1120">443</Item>
+			<Item score="2222">581</Item>
+			<Item score="2122">676</Item>
+			<Item score="0010">715</Item>
+			<Item score="0001">722</Item>
+			<Item score="1101">728</Item>
+			<Item score="1000">758</Item>
+			<Item score="1010">782</Item>
+			<Item score="0010">835</Item>
+			<Item score="2122">878</Item>
+			<Item score="1000">941</Item>
+			<Item score="1222">1115</Item>
+			<Item score="0010">1215</Item>
+			<Item score="2122">1218</Item>
+			<Item score="0001">1234</Item>
+			<Item score="1101">1239</Item>
+		</Records>
+	</QUERY>
+</FILEQUERY>
